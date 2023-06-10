@@ -3,7 +3,7 @@ version: "3.8"
 services:
 
   php:
-    image: 'fatimamahsud1/Restaurant_Reservation_System_Devops:latest'
+    image: 'fatimamahsud1111/resataurantsystem:latest'
     ports:
       - '8000:80'
     depends_on:
